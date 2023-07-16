@@ -1,3 +1,3 @@
 # BigMatrixInverse
 
-https://replit.com/@MatheSchool/BigMatrixDeterminant#main.py
+https://replit.com/@MatheSchool/BigMatrixInverse#main.py
